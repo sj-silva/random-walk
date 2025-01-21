@@ -1,5 +1,9 @@
 # Random Walk
 
+## Live Demo
+
+Check out the live demo: [Random Walk Visualization](https://sj-silva.github.io/random-walk/)
+
 ## Preview
 
 <p align="center">
@@ -90,16 +94,6 @@ You can modify several parameters in `sketch.js` to change the behavior:
 - `colorSpeed`: Controls color change rate (default: 10)
 - `pointWeight`: Controls size of points (default: 3)
 - Canvas dimensions in `setup()` function
-
-## Future Enhancements
-
-Potential improvements could include:
-
-- Adding user controls for speed and color changes
-- Implementing different movement patterns
-- Adding trails or fade effects
-- Including multiple walkers
-- Adding interactive elements
 
 ## License
 
