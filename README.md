@@ -1,10 +1,10 @@
-# Random Walk - Simple Case
+# Random Walk
 
 ## Preview
 
-<div style="text-align: center;">
+<p align="center">
   <img src="images/example.png" alt="Random Walk Example" width="50%">
-</div>
+</p>
 
 ## Description
 
