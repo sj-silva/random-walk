@@ -2,7 +2,9 @@
 
 ## Preview
 
-![Random Walk Example](images/example.png)
+<div style="text-align: center;">
+  <img src="images/example.png" alt="Random Walk Example" width="50%">
+</div>
 
 ## Description
 
