@@ -1,9 +1,0 @@
-# Set default behavior to automatically normalize line endings
-* text=auto
-
-# Explicitly declare text files to be normalized
-*.html text
-*.js text
-*.css text
-*.json text
-*.md text
