@@ -7,7 +7,7 @@ Check out the live demo: [Random Walk Visualization](https://sj-silva.github.io/
 ## Preview
 
 <p align="center">
-  <img src="images/example.png" alt="Random Walk Example" width="50%">
+  <img src="images/example.gif" alt="Random Walk Example">
 </p>
 
 ## Description
@@ -78,7 +78,7 @@ case 3: up    (y--)
    ├── index.html
    ├── sketch.js
    ├── images/
-   │   └── example.png
+   │   └── example.gif
    └── libraries/
        ├── p5.min.js
        └── p5.sound.min.js
